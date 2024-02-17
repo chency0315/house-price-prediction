@@ -51,7 +51,8 @@ the precision is 0.859, the result can use for the evaluation of the house price
 
 <img width="267" alt="acc" src="https://github.com/chency0315/house-price-prediction/assets/100465252/4ce4314d-f96b-4b94-8339-43ad0f2b7417">
 
-#feature importances
+# Feature importances
+
 Through feature importance, I found out that Ground living area is the most important factor.
 
 <img width="369" alt="feature importance" src="https://github.com/chency0315/house-price-prediction/assets/100465252/5dea2db6-b70e-4bf4-a215-f5218af6a24c">
