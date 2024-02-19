@@ -113,8 +113,8 @@ the precision is 0.859 with test data, the result can be used for the evaluation
 
 # Feature importances
 
-利用feature importance，我發現除了售價外實際居住坪數是第二重要的。
-Through feature importance, I found out that the Ground living area is the second important factor besides sale price.
+利用feature importance，我發現除了售價外實際居住坪數是最重要的。
+Through feature importance, I found out that the Ground living area is the most important factor.
 
 ```
 print(clf.feature_importances_)
