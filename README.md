@@ -40,20 +40,20 @@ max      755000.000000
 ![distribution](https://github.com/chency0315/house-price-prediction/assets/100465252/881a668e-ddbd-453a-90ea-38c0c4d6921a)
 
 # Feature engineering 
-Drop out Id, yrsold, poolqc, fence, miscfeature, and label the other columns
+Drop out Id, yrsold, poolqc, fence, misfeatures, and label the other columns
 
 <img width="1211" alt="label encode" src="https://github.com/chency0315/house-price-prediction/assets/100465252/b7d48bd5-cc96-4e61-9a3b-ce480cceaf8f">
 
 # Model selection 
 
-For the model I choose random forest classifier, max depth = 10 
-the precision is 0.859, the result can use for the evaluation of the house price.
+For the model, I choose random forest classifier, max depth = 10 
+the precision is 0.859, the result can be used for the evaluation of the house price.
 
 <img width="267" alt="acc" src="https://github.com/chency0315/house-price-prediction/assets/100465252/4ce4314d-f96b-4b94-8339-43ad0f2b7417">
 
 # Feature importances
 
-Through feature importance, I found out that Ground living area is the most important factor.
+Through feature importance, I found out that the Ground living area is the second important factor besides sale price.
 
 <img width="369" alt="feature importance" src="https://github.com/chency0315/house-price-prediction/assets/100465252/5dea2db6-b70e-4bf4-a215-f5218af6a24c">
 
